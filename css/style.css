@@ -1,0 +1,73 @@
+.ttttt{
+    color: white;
+    font-style: italic;
+    background-image: url(https://cdn.mos.cms.futurecdn.net/GUHx68i9ohdpdh6HdXzEA8.jpg);
+   background-size: cover;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    
+}
+.hhh{
+    box-shadow: 2px 3px 2px;
+    color: rgba(184, 184, 181, 0.979);
+    background-color: rgba(241, 225, 225, 0.623);
+    backdrop-filter: blur;
+    
+    
+    
+}
+.main-header{
+    text-align: center;
+}
+
+.head-referance{
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+
+.my-card{
+    margin-top: 15px;
+    background-color: rgba(196, 196, 196, 0.692);
+    
+}
+.my-card :hover{
+    box-shadow: 3px 1px 5px 4px rgba(100, 97, 97, 0.219);
+}
+
+
+.tttt{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgba(59, 55, 55, 0.911);
+    color: wheat;
+}
+.default-content{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.ffff{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.my-form{
+    box-shadow: 1px 1px 2px 2px rgb(129, 126, 126);
+}
+.penguin{
+    --penguin-skin: black;
+    --penguin-belly: gray;
+    --penguin-belly:  yellow;
+    position: relative;
+    margin: auto;
+    display: block;
+    margin-top: 5%;
+    width: 300px;
+    height: 300px;
+}
+.penguin-top{
+    top: 10%;
+    left: 25%;
+    background: gray;
+    width: 50%;
+    height: 45%;
+    border-radius: 70% 70% 60% 60%;
+}
